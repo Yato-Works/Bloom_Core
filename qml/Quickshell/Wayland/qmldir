@@ -1,0 +1,5 @@
+module Quickshell.Wayland
+singleton WlrLayershell 1.0 WlrLayershell.qml
+singleton WlrLayer 1.0 WlrLayer.qml
+singleton ExclusionMode 1.0 ExclusionMode.qml
+singleton WlrKeyboardFocus 1.0 WlrKeyboardFocus.qml

@@ -1,0 +1,43 @@
+# Build output
+build/
+build-*/
+cmake-build-*/
+out/
+bin/
+
+# Compiled Binaries & Libraries
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+*.obj
+*.o
+*.pdb
+*.ilk
+*.exp
+
+# Qt & QML generated files
+.rcc/
+.qt/
+*.qmlc
+*.jsc
+moc_*.cpp
+moc_*.h
+qrc_*.cpp
+ui_*.h
+
+# Logs and Crash Dumps
+*.log
+*.dmp
+logs/
+
+# IDE & Editor settings
+.vscode/
+.idea/
+*.user
+*.user.*
+CMakeUserPresets.json
+.DS_Store
+Thumbs.db

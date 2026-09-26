@@ -1,0 +1,11 @@
+module Quickshell
+singleton Quickshell 1.0 Quickshell.qml
+Scope 1.0 Scope.qml
+Variants 1.0 Variants.qml
+Singleton 1.0 Singleton.qml
+PanelWindow 1.0 PanelWindow.qml
+PopupWindow 1.0 PopupWindow.qml
+ShellRoot 1.0 ShellRoot.qml
+ShellScreen 1.0 ShellScreen.qml
+LayershellConfig 1.0 LayershellConfig.qml
+
